@@ -50,4 +50,4 @@ def lcd_fun():
     pyb.delay(3000)
 
     # Done
-    # lcd.clear()
+    lcd.clear()
