@@ -5,17 +5,17 @@
 # 1   VSS     GND                 Ground it
 # 2   VDD     +5V                 5V please
 # 3   V0      Contrast (0-5V)*    Stick to 0V if you don't have a pot
-# 4   RS      Register select     Connect this one, 0 in array
+# 4   RS      Register select     Connect to pyboard, 0 in array
 # 5   R/W     Read/write          Ground it
-# 6   E       Enable              Connect this one, 1 in array
+# 6   E       Enable              Connect to pyboard, 1 in array
 # 7   DB0     Data Bit 0          Unused
 # 8   DB1     Data Bit 1          Unused
 # 9   DB2     Data Bit 2          Unused
 # 10  DB3     Data Bit 3          Unused
-# 11  DB4     Data Bit 4          Connect this one, 2 in array
-# 12  DB5     Data Bit 5          Connect this one, 3 in array
-# 13  DB6     Data Bit 6          Connect this one, 4 in array
-# 14  DB7     Data Bit 7          Connect this one, 5 in array
+# 11  DB4     Data Bit 4          Connect to pyboard, 2 in array
+# 12  DB5     Data Bit 5          Connect to pyboard, 3 in array
+# 13  DB6     Data Bit 6          Connect to pyboard, 4 in array
+# 14  DB7     Data Bit 7          Connect to pyboard, 5 in array
 # 15  A       Backlight +someV    My display is LED, I use 3.3V
 # 16  K       Backlight GND       Ground it
 
