@@ -6,6 +6,8 @@ pyboard.
 There are **no external dependences**, the only module we use is the pyboard's
 `pyb`.
 
+Micropython Forum thread: http://forum.micropython.org/viewtopic.php?f=2&t=354
+
 ## Usage
 
 ```
